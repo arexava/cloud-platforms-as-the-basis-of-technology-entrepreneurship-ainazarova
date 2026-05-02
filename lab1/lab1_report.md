@@ -1,6 +1,6 @@
 **University:** ITMO University  
 **Faculty:** [FTMI]  
-**Course:** Облачные платформы как основа технологического предпринимательства
+**Course:** Облачные платформы как основа технологического предпринимательства  
 **Year:** 2025/2026  
 **Group:** U4125  
 **Author:** Nazarova Arina Ilinichna  
