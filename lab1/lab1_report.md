@@ -34,6 +34,10 @@
 7. Заменила роль на compute viewer:  
 <img width="681" height="52" alt="Снимок экрана 2026-05-03 в 00 56 19" src="https://github.com/user-attachments/assets/46e28864-c943-4c8f-ae88-724c0186f986" />
 
+8. Несмотря на редактирование аккаунта, все еще оставался доступ для копирования. Проверила, тот ли аккаунт я редактирую - да, все было верно:
+<img width="601" height="228" alt="Снимок экрана 2026-05-03 в 01 06 23" src="https://github.com/user-attachments/assets/6760eb15-01d4-4dc2-8160-65d9abf6db5c" />
+
+
 
 
 
