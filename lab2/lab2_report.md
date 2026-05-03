@@ -14,7 +14,7 @@
 
 **Ход работы:**  
 1. Приступила к созданию Cloud Run (Hello service):
-<img width="1104" height="735" alt="Снимок экрана 2026-05-03 в 14 34 56" src="https://github.com/user-attachments/assets/d2ab47e4-5088-425f-a6a1-b556f22deebe" />
+```<img width="1104" height="735" alt="Снимок экрана 2026-05-03 в 14 34 56" src="https://github.com/user-attachments/assets/d2ab47e4-5088-425f-a6a1-b556f22deebe" />
 
 ---  
 2. Сервис был успешно развернут в Cloud Run - после перехода по предоставленной ссылке (URL: https://leb2-hello-ainazarova-307056602443.europe-west1.run.app) отображается сообщение "It's running!", что подтверждает корректную работу контейнера и доступность сервиса:
