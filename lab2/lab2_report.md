@@ -1,4 +1,4 @@
-<img width="433" height="126" alt="Снимок экрана 2026-05-04 в 16 08 09" src="https://github.com/user-attachments/assets/b46f3166-12d4-4b13-b701-739d78dcec4f" /><img width="534" height="315" alt="Снимок экрана 2026-05-04 в 15 56 15" src="https://github.com/user-attachments/assets/cf1876c0-40c6-4fe9-baeb-1d8725974588" />**University:** ITMO University  
+**University:** ITMO University  
 **Faculty:** [FTMI]  
 **Course:** Облачные платформы как основа технологического предпринимательства  
 **Year:** 2025/2026  
